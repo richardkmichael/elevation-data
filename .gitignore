@@ -1,0 +1,2 @@
+# Ignore the decompressed file, which results from `xz -dk ...` in the README.md instructions.
+guideseq/guideseq_unique_MM6_end0_lim999999999.hdf5
