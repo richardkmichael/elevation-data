@@ -9,7 +9,9 @@ of the installation of the [Elevation](https://github.com/microsoft/Elevation) s
 Clone this repository, then copy the files as described below.  After copying the
 data to Elevation, this repository is no longer required and may be deleted.
 
- * The instructions below are for Linux. On OSX and Windows, `xz` is required.
+ * An `xz` decompressor is required.
+   * On Linux and macOS, use RPM/apt or homebrew to install `xz`.
+   * On Windows, use the [7-Zip GUI](https://www.7-zip.org/), or the [xz command line utility](https://tukaani.org/xz/).
  * The `.txt` related files are not required. Those files are from intermediary processing, and only archived here for completeness or debugging.
 
 ### Setup
